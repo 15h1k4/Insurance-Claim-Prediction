@@ -1,6 +1,6 @@
 # Insurance-Claim-Prediction
 
-The current method of determining insurance charges for clients lacks precision, often resulting in overcharging or undercharging. This not only affects customer satisfaction but also impacts the profitability and risk management of the insurance company. The aim is to develop a predictive model that can accurately estimate the insurance charges based on client-specific factors such as age, sex, BMI, children, smoker status, and region.
+The current method of determining insurance charges for clients lacks precision, often resulting in overcharging or undercharging. This not only affects customer satisfaction but also impacts the profitability and risk management of the insurance company. **The aim is to develop a predictive model that can accurately estimate the insurance charges based on client-specific factors such as age, sex, BMI, children, smoker status, and region.**
 
 Success will be measured by the model's performance metrics, including Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared (R²) values. A reduction in these error metrics by at least 15% compared to the current estimation method will be considered a successful outcome.
 
